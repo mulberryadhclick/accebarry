@@ -16,7 +16,7 @@ Al ser un proyecto nuevo vamos a encontrar algunos bugs, varios commits para un 
 
 Esta es la version 0.0.1.
 
-Chrome sera nuestro navegador predeterminado, para el resto de navegadores con las herramientas y tecnicas de aprendizaje aprendidas haremos que sea visible como en nuestro navegador predetermiando, como tambien en las diferentes plataformas. Ya que sera utilizado tanto en desktop como en movil.
+Chrome sera nuestro navegador predeterminado, para el resto de navegadores con las herramientas y tecnicas aprendidas haremos que sea visible como en nuestro navegador predetermiando, como tambien en las diferentes plataformas. Ya que sera utilizado tanto en desktop como en movil.
 
 Por medio de un registro se dara la habilitacion al usuario para ingresar al app. Este sera por medio de una cuenta de Facebook, Twiter o por email y una contraseña.
 
