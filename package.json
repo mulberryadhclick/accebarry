@@ -26,5 +26,10 @@
     "jquery": "^2.2.3",
     "vinyl-buffer": "^1.0.0",
     "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {
+    "materialize-css": "^0.97.6",
+    "normalize.css": "^4.1.1",
+    "react": "^15.0.2"
   }
 }
